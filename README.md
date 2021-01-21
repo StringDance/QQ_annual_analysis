@@ -1,2 +1,3 @@
 # QQ_annual_analysis
-基于QQ聊天记录借助jieba生成用户年度词云
+基于QQ聊天记录借助jieba生成用户年度词云。
+QQ聊天记录txt需要和py源码放在同一目录下。
